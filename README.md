@@ -40,7 +40,7 @@ I have experience in planning events of different kinds. I have planned musical,
 
 ## Projects
 
-Project title  | Description  									| Development timeframe | Technologies | Testing
+Project title  | Development timeframe | Description | Technologies | Testing
 ------------- | ------------------------------	| ------------- |------------- |---------
 [Music Mates](http://music-mates.herokuapp.com/) | 10 days | A Spotify based social network that lets you find new friends with same musical tastes | Meteor | Chimp
 [Unchained](https://github.com/souljuse/unchained_blog) | 7 days | A Django based blog framework | Django, postgreSQL | Selenium
