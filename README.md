@@ -7,7 +7,7 @@
 Passionate about games, tech, music and international politics, I had a hard time finding my way, but I had no more doubts when I started coding.
 After two degrees in International Relations, an experience in a Web Agency as a SEO specialist and a job as an occasional freelance front-end developer I decided to go full-stack by enrolling at Makers Academy, a highly selective bootcamp focused on Ruby development.
 
-I learned TDD/BDD, programming languages like Ruby, Javascript and basics of Python, web application frameworks such as Ruby on Rails, Django and Meteor and testing frameworks such as RSpec, Capybara, Jasmine.
+I learned how to develop simple web applications following best practices and modern development principles, such as SOLID and DRY, MVC Frameworks structure and OOP, TDD/BDD, programming languages like Ruby, Javascript and basics of Python, web application frameworks such as Ruby on Rails, Django and Meteor and testing frameworks such as RSpec, Capybara, Jasmine.
 
 Thanks to my problem solving skills, will to learn new things everyday and flexible thinking I am able to adapt very quickly to each of all new environments and challenges and that proved to work also in development as I was able to create a Python/Django project in one week, even though I had never seen such framework before.
 
