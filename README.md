@@ -97,8 +97,11 @@ Plus, in a completely opposite manner to how I keep my room, I like to keep writ
 
 #### Bonus
 MBTI - INTP
+
 MTG Player Type - Jenny
+
 Want to listen to my music? [Ariel Gun](https://soundcloud.com/ariel-gun) - [Souljuse](https://soundcloud.com/souljuse) 
+
 I use an american layout keyboard with rainbow lights
 
 
