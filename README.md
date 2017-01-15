@@ -84,11 +84,13 @@ A 16-week intensive development bootcamp, emphasizing:
 I found a pattern in what led me to learn coding and I think that it tells a lot about who I am.
 
 These are my consolidated passions
+
 1. I love logic games, crosswords, puzzles and quizzes. I found them relaxing and fun
 2. I like creating stories and worlds, I play RPGs a lot, pen & paper, video games and I even organise Larp events. That has something to do with my academic background, international relations and politics. My choice to enroll in  came from my interests in social textures, rules governing world politics that are not written in formal rules.
 3. I make electronic music. what I love about that is that, after years of playing in a band, I could finally have control on a song, compose it and shape entirely. Focusing on what I like the most about composing, the soundscape.. that final feeling of the song.
 
 Being a developer fits perfectly to this profile. I found a little bit of all the aforementioned aspects in coding:
+
 1. First, logic, love that, could work (play?) with it for hours.
 2. Creating worlds: it's something you do when you create a program, create a new world with its rules. At the same time I enjoy also understanding and eventually work on other’s people rules system, finding logical patterns and trying to fit in.
 3. Creativity & control: even in team projects coding allows you to have control on a part of the code. Allowing you to be creative and to make something beautiful that you can be proud of.
