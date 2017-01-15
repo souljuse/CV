@@ -95,4 +95,9 @@ Being a developer fits perfectly to this profile. I found a little bit of all th
 
 Plus, in a completely opposite manner to how I keep my room, I like to keep write organised and efficient way, and that reflects in my style of coding. You can see that by all the bullet points lists I use.
 
+#### Bonus
 MBTI - INTP
+Want to listen to my music? [Ariel Gun](https://soundcloud.com/ariel-gun) [Souljuse](https://soundcloud.com/souljuse) 
+
+
+
