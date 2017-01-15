@@ -80,7 +80,7 @@ A 16-week intensive development bootcamp, emphasizing:
 
 ## Me
 
-#### What I love about code (how Irene found one more passion)
+#### What I love about coding (how Irene found one more passion)
 I found a pattern in what led me to learn coding and I think that it tells a lot about who I am.
 
 These are my consolidated passions
