@@ -45,7 +45,7 @@ Project title  | Development timeframe | Description | Technologies | Testing
 [Music Mates](http://music-mates.herokuapp.com/) | 10 days | A Spotify based social network that lets you find new friends with same musical tastes | Meteor | Chimp
 [Unchained](https://github.com/souljuse/unchained_blog) | 7 days | A Django based blog framework | Django, postgreSQL | Selenium
 [AirBnB Clone](https://github.com/souljuse/airbnb_clone) | 5 days | A clone of AirBnB | Sinatra PostgreSQL | RSpec, Capybara
-
+[Yelp Clone](https://agile-tor-10201.herokuapp.com/) | 3 days | A... Yelp clone! | Ruby on Rails | RSpec, Capybara
 
 ## Experiences
 
