@@ -7,18 +7,18 @@
 Passionate about games, tech, music and international politics, I had a hard time finding my way, but I had no more doubts when I started coding.
 After two degrees in International Relations, an experience in a Web Agency as a SEO specialist and a job as an occasional freelance front-end developer I decided to go full-stack by enrolling at Makers Academy, a highly selective bootcamp focused on Ruby development.
 
-I learned how to develop simple web applications following best practices and modern development principles, such as SOLID and DRY, MVC Frameworks structure and OOP, TDD/BDD, programming languages like Ruby, Javascript and basics of Python, web application frameworks such as Ruby on Rails, Django and Meteor and testing frameworks such as RSpec, Capybara, Jasmine.
+In the Academy I learned how to develop simple web applications following best practices and modern development principles, such as SOLID and DRY, MVC Frameworks structure and OOP, TDD/BDD, programming languages like Ruby, Javascript and basics of Python, web application frameworks such as Ruby on Rails, Django and Meteor and testing frameworks such as RSpec, Capybara, Jasmine.
 
 Thanks to my problem solving skills, will to learn new things everyday and flexible thinking I am able to adapt very quickly to each of all new environments and challenges and that proved to work also in development as I was able to create a Python/Django project in one week, even though I had never seen such framework before.
 
-I'm currently looking for a Full Stack Junior Developer role in an organisation that is passionate about creating creative solutions and innovation and have a positive approach to work.
+I'm currently working in a Florence based web agency, Cantiere Creativo, and I develop mostly React and Rails applications plus static websites. I am also working part-time for DatoCMS, a very cool headless CMS for static sites.
 
 
 ## Skills
 
 #### Languages
 
-In addition to Italian, my mother language, I speak fluent English and French, plus I have a basic knowledge of Spanish and German. I lived and worked in London, Paris and Berlin.
+In addition to Italian, my mother language, I speak fluent English and some French, plus I have a basic knowledge of Spanish and German. I lived and worked in London, Paris and Berlin.
 
 #### Problem solving
 
@@ -31,12 +31,11 @@ I have experience in planning events of different kinds. I have planned musical,
 
 #### Additional Skills
 
-- Photoshop
-- Wordpress & Joomla
 - SEO strategies
-- Full project lifecycle experience
 - Ableton Live, sound engineering software
-
+- Photoshop
+- RPG storyteller and gamer
+- Finished all the Souls games series
 
 ## Projects
 
@@ -49,8 +48,8 @@ Project title  | Development timeframe | Description | Technologies | Testing
 
 ## Experiences
 
-**Front-end Web Developer** (August 2015 – Present)
-Developing websites on my own and for QNT. My latest website http://www.francescacastagnacci.it/
+**Full-stack Web Developer** (February 2017 – Present)
+Developing websites for Cantiere Creativo, part-time work at DatoCMS.
 
 **Search Engine Optimization specialist** (October 2015 - October 2016)
 *QNT Web Agency, Firenze*
