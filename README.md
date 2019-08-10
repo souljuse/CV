@@ -2,7 +2,7 @@
 
 ### Full Stack Developer
 
-[Projects](#projects) | [Experience](#experience) | [Skills](#skills) [Education](#education) | [Me](#me)
+[Projects](#projects) | [Experience](#experience) | [Skills](#skills) | [Education](#education) | [Me](#me)
 
 Passionate about games, tech, music and international politics, I had a hard time finding my way, but I had no more doubts when I started coding. After two degrees in International Relations, an experience in a Web Agency as a SEO specialist and a job as an occasional freelance front-end developer I decided to go full-stack by enrolling at Makers Academy, a highly selective bootcamp focused on Ruby development.
 
