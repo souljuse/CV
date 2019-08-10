@@ -1,70 +1,77 @@
 ## Irene Oppo
 
-### Junior Full Stack Developer
+### Full Stack Developer
 
-[Skills](#skills) | [Projects](#projects) | [Experience](#experience) | [Education](#education) | [Me](#me)
+[Projects](#projects) | [Experience](#experience) | [Skills](#skills) [Education](#education) | [Me](#me)
 
-Passionate about games, tech, music and international politics, I had a hard time finding my way, but I had no more doubts when I started coding.
-After two degrees in International Relations, an experience in a Web Agency as a SEO specialist and a job as an occasional freelance front-end developer I decided to go full-stack by enrolling at Makers Academy, a highly selective bootcamp focused on Ruby development.
+Passionate about games, tech, music and international politics, I had a hard time finding my way, but I had no more doubts when I started coding. After two degrees in International Relations, an experience in a Web Agency as a SEO specialist and a job as an occasional freelance front-end developer I decided to go full-stack by enrolling at Makers Academy, a highly selective bootcamp focused on Ruby development.
 
-In the Academy I learned how to develop simple web applications following best practices and modern development principles, such as SOLID and DRY, MVC Frameworks structure and OOP, TDD/BDD, programming languages like Ruby, Javascript and basics of Python, web application frameworks such as Ruby on Rails, Django and Meteor and testing frameworks such as RSpec, Capybara, Jasmine.
+After this experience I was hired by a Florence based web agency, Cantiere Creativo.
+There I had the chance to deepen my knowledge of both Rails and Javascript, to learn new frameworks, like React JS to build static sites from scratch using generators like Gatsby JS and Middleman, and to develop new skills like dealing with clients and doing real work for demanding clients.
 
-Thanks to my problem solving skills, will to learn new things everyday and flexible thinking I am able to adapt very quickly to each of all new environments and challenges and that proved to work also in development as I was able to create a Python/Django project in one week, even though I had never seen such framework before.
+After a year I started working for an internal project called DatoCMS, that now has become a full-grown tech giant, one of the leading headless content management systems.
+I had to work both on the app's frontend (React + Redux) and the backend (Ruby on Rails), and on numerous related projects, like the API client. I am so proud!
 
-I'm currently working in a Florence based web agency, Cantiere Creativo, and I develop mostly React and Rails applications plus static websites. I am also working part-time for DatoCMS, a very cool headless CMS for static sites.
+## Projects
+
+A list of some of the projects I have collaborated with.
+
+| Project title | Description | Technologies
+| ------------- | ----------- | ------------ 
+| [DatoCMS](https://datocms.com) | | Rails, React, Redux
+| [DatoCMS API client](https://github.com/datocms/js-datocms-client) | | Javascript
+| [DatoCMS API explorer](https://github.com/datocms/cda-explorer) | A sandbox app to test calls to DatoCMS GraphQl API. Visit it (here)[https://cda-explorer.datocms.com] | React
+| [Firenze Fiera Backend](https://areariservata.firenzefiera.it/) | | Rails, PostgreSQL
+| [Kubikoff](https://www.kubikoff.com/) | A complex static website for an international brand | GatsbyJS, DatoCMS
 
 
 ## Skills
 
 #### Languages
 
-In addition to Italian, my mother language, I speak fluent English and some French, plus I have a basic knowledge of Spanish and German. I lived and worked in London, Paris and Berlin.
+Javascript - React, GatsbyJS, Jester
+Ruby - Rails, Rspec
+GraphQl
+
+#### Languages #2
+
+In addition to Italian, my mother language, I speak fluent English and some French,
+plus I have a basic knowledge of Spanish and German. I lived and worked in London, Paris and Berlin.
 
 #### Problem solving
 
-Along with my natural predisposition and passion for solving logical and mathematical problems, my years as an International Relations student, a multidisciplinary degree, have thought me how to use different strategies to different contexts. Plus I realized that I could pick up new concepts with ease and quickly adapt to any new subject or situation.
-
-
-#### Events planner
-
-I have experience in planning events of different kinds. I have planned musical, political, charity and role playing events.
+Along with my natural predisposition and passion for solving logical and
+mathematical problems, my years as an International Relations student,
+a multidisciplinary degree, have thought me how to use different strategies to different contexts.
+Plus I realized that I could pick up new concepts with ease and quickly adapt to any new subject or situation.
 
 #### Additional Skills
 
-- SEO strategies
-- Ableton Live, sound engineering software
-- Photoshop
 - RPG storyteller and gamer
-- Finished all the Souls games series
-
-## Projects
-
-Project title  | Development timeframe | Description | Technologies | Testing
-------------- | ------------------------------	| ------------- |------------- |---------
-[Music Mates](http://music-mates.herokuapp.com/) | 10 days | A Spotify based social network that lets you find new friends with same musical tastes | Meteor | Chimp
-[Unchained](https://github.com/souljuse/unchained_blog) | 7 days | A Django based blog framework | Django, postgreSQL | Selenium
-[AirBnB Clone](https://github.com/souljuse/airbnb_clone) | 5 days | A clone of AirBnB | Sinatra PostgreSQL | RSpec, Capybara
-[Yelp Clone](https://agile-tor-10201.herokuapp.com/) | 3 days | A... Yelp clone! | Ruby on Rails, haml | RSpec, Capybara
+- Ableton Live, sound engineering software
+- SEO strategies
+- Finished most of the Souls games series
 
 ## Experiences
 
 **Full-stack Web Developer** (February 2017 – Present)
-Developing websites for Cantiere Creativo, part-time work at DatoCMS.
+_DatoCMS_
+Working for the backend (Ruby on Rails), the frontend (React) and the API client.
+
+**Full-stack Web Developer** (February 2016 – Present)
+_Lean Panda Web Agency, Firenze_
+Developing web apps and static sites for different clients with different styles
 
 **Search Engine Optimization specialist** (October 2015 - October 2016)
-*QNT Web Agency, Firenze*
+_QNT Web Agency, Firenze_
 Developing creative SEO strategies for hotels.
-
-**Web Content Manager** (June 2011 to July 2014)
-*Institute for Cultural Diplomacy, Berlin (Germany)*
-Write contents and articles for the ICD news blog and website and managing social networks.
-
 
 ## Education
 
 #### Makers Academy (September 2016 to December 2016)
 
 A 16-week intensive development bootcamp, emphasizing:
+
 - Pair-programming and team work
 - Best practices in programming. DRY, SOLID principles
 - Project development. TDD, BDD, Agile, Scrum, Waffle
@@ -79,31 +86,32 @@ A 16-week intensive development bootcamp, emphasizing:
 
 ## Me
 
-#### What I love about coding (how Irene found one more passion)
+#### What I love about coding (on how Irene found one more passion)
+
 I found a pattern in what led me to learn coding and I think that it tells a lot about who I am.
 
 These are my consolidated passions
 
-1. I love logic games, crosswords, puzzles and quizzes. I found them relaxing and fun
-2. I like creating stories and worlds, I play RPGs a lot, pen & paper, video games and I even organise Larp events. That has something to do with my academic background, international relations and politics. My choice to enroll in  came from my interests in social textures, rules governing world politics that are not written in formal rules.
-3. I make electronic music. what I love about that is that, after years of playing in a band, I could finally have control on a song, compose it and shape entirely. Focusing on what I like the most about composing, the soundscape.. that final feeling of the song.
+1. I love logic games, crosswords and quizzes. I found them relaxing and fun
+2. I like creating stories and worlds, I play RPGs a lot, pen & paper, video games and I organise Larp events.
+   That has something to do with my academic background, international relations and politics, i.e. from my interests in social textures, rules governing world politics that are not written in formal rules.
+3. I make electronic music. What I love about that is that, after years of playing in a band,
+   I could finally have control on a song, compose it and shape entirely.
+   Focusing on what I like the most about composing, the soundscape.. That final feeling of the song.
+4. I like puzzles and building stuff
 
 Being a developer fits perfectly to this profile. I found a little bit of all the aforementioned aspects in coding:
 
 1. First, logic, love that, could work (play?) with it for hours.
-2. Creating worlds: it's something you do when you create a program, create a new world with its rules. At the same time I enjoy also understanding and eventually work on other’s people rules system, finding logical patterns and trying to fit in.
-3. Creativity & control: even in team projects coding allows you to have control on a part of the code. Allowing you to be creative and to make something beautiful that you can be proud of.
-
-Plus, in a completely opposite manner to how I keep my room, I like to keep write organised and efficient way, and that reflects in my style of coding. You can see that by all the bullet points lists I use.
+2. Creating worlds has similarities to coding. Every time you deal with a new project you get to explore a new world with its rules -the technologies and languages- and landscapes -the looks.
+3. Creativity & control: even in team projects coding allows you to have control on a part of the code.
+   Allowing you to be creative and to make something beautiful that you can be proud of.
+4. In a completely opposite manner to how I keep my room, I like to build organised code and like refactoring code to make it more efficient.
 
 #### Bonus
+
 MBTI - INTP
 
 MTG Player Type - Jenny
 
-Want to listen to my music? [Ariel Gun](https://soundcloud.com/ariel-gun) - [Souljuse](https://soundcloud.com/souljuse) 
-
-I use an american layout keyboard with rainbow lights
-
-
-
+Want to listen to my music? [Ariel Gun](https://soundcloud.com/ariel-gun) - [Souljuse](https://soundcloud.com/souljuse)
